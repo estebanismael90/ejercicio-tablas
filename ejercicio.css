@@ -1,0 +1,20 @@
+table{
+    width: 50%;
+    text-align: center;
+    border:solidv 1px black;
+    margin: auto;
+    border-collapse: collapse;
+}
+
+caption{
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+th,tfoot{
+    background-color: rgb(194, 188, 188);
+}
+
+tfoot{
+    font-weight: bold;
+}
